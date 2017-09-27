@@ -746,7 +746,7 @@ plt.show()
 ```
 
 
-![png](/images/Capstone-EDA_files/Capstone-EDA_24_0.png)
+![png](/images/Capstone-EDA_files/Capstone-EDA_25_0.png)
 
 
 ## Reverse Geocode the latitude and longitude
@@ -1486,7 +1486,7 @@ plt.show()
 ```
 
 
-![png](/images/Capstone-EDA_files/Capstone-EDA_35_0.png)
+![png](/images/Capstone-EDA_files/Capstone-EDA_36_0.png)
 
 
 ### Mapping Earthquakes 
@@ -1553,13 +1553,13 @@ layout = dict(
     )
 
 fig = dict( data=quakes, layout=layout )
-py.iplot( fig, validate=False, filename='d3-bubble-map-2016-magnitude' )
+py.iplot( fig, validate=False, filename='d3-bubble-map-2000-2001-magnitude' )
 ```
 
 
 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~erhepp/2.embed" height="525px" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~erhepp/4.embed" height="525px" width="100%"></iframe>
 
 
 
@@ -1728,7 +1728,7 @@ axs[0].locator_params(numticks=9)
 ```
 
 
-![png](/images/Capstone-EDA_files/Capstone-EDA_47_0.png)
+![png](/images/Capstone-EDA_files/Capstone-EDA_48_0.png)
 
 
 What did we lose by restricting to quakes with both MMI and CDI values, and with CDI computed from 5 or more DYFI reports?  Here are similar distribution plots, but using all quakes in the dataset from 1970 onward.  Observe carefuly the y-axis in these plots, as there are many quakes with neither MMI or CDI intensity measurement.  
@@ -1752,7 +1752,7 @@ axs[0].locator_params(numticks=9)
 ```
 
 
-![png](/images/Capstone-EDA_files/Capstone-EDA_49_0.png)
+![png](/images/Capstone-EDA_files/Capstone-EDA_50_0.png)
 
 
 
