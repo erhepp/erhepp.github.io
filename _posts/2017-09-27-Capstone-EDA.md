@@ -1613,13 +1613,13 @@ layout = dict(
     )
 
 fig = dict( data=quakes, layout=layout )
-py.iplot( fig, validate=False, filename='d3-bubble-map-2016-magnitude' )
+py.iplot( fig, validate=False, filename='d3-bubble-map-2015-present-magnitude' )
 ```
 
 
 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~erhepp/2.embed" height="525px" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~erhepp/6.embed" height="525px" width="100%"></iframe>
 
 
 
@@ -1683,13 +1683,13 @@ layout = dict(
     )
 
 fig = dict( data=quakes, layout=layout )
-py.iplot( fig, validate=False, filename='d3-bubble-map-2016-magnitude' )
+py.iplot( fig, validate=False, filename='d3-bubble-map-mmi-cdi-magnitude' )
 ```
 
 
 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~erhepp/2.embed" height="525px" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~erhepp/8.embed" height="525px" width="100%"></iframe>
 
 
 
