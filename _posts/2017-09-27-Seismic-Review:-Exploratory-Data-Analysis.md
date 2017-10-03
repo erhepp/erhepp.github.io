@@ -1,9 +1,5 @@
 
-# Exploratory Data Analysis
-
-## Seismic Review: 50 years of US Earthquake Data
-
-### Eric Hepp
+## Dataset Characteristics and Initial Observations
 
 
 #### Dataset

@@ -1,5 +1,5 @@
 
-## Predict Modifed Mercalli Intensity (MMI) from Community Decimal Intensity (CDI)
+## Comparison of Maximum CDI to Maximum MMI
 
 Intensity, or the expression / damage level of the earthquake on the surface, is traditionally reported as a Modified Mercalli Intensity (MMI) rating, 0 - 12. In the last 20 years, a new method, using crowd sourced internet reported effects and damage estimates, was established by the USGS.  
 
