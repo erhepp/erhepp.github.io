@@ -1496,8 +1496,7 @@ import plotly.plotly as py
 import pandas as pd
 
 import plotly 
-plotly.tools.set_credentials_file(username='erhepp', api_key='F6sL7oLP3PpzBpBDwz4U')
-# erhepp   PLg3heim
+# Credentials are set at this point, but removed from blog post
 ```
 
 
