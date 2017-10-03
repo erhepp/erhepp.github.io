@@ -1,4 +1,6 @@
 
+### Process for retrieving data using USGS ComCat API
+
 ## Work with a sample JSON for quake data in WA and OR 
 
 Learn how to work with the USGS ComCat formats
